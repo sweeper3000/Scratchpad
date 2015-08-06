@@ -1,4 +1,8 @@
-The MIT License (MIT)
+# License
+## In A Nutshell
+You can do whatever you want with this.
+# Full License
+## The MIT License (MIT)
 
 Copyright (c) 2015 Sweeper3000
 
